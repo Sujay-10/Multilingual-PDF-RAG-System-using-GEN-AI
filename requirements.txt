@@ -1,0 +1,8 @@
+langchain
+ollama
+torch
+transformers
+numpy
+faiss-cpu
+deque
+pytesseract
